@@ -1,9 +1,11 @@
 * {
   box-sizing: border-box;
+  font-size: 15px;
 }
 h1 {
   margin: 20px;
   text-align: center;
+  font-size: 175%;
 }
 section#container {
   position: relative;
@@ -15,6 +17,7 @@ section#container {
 }
 section#outside {
   border: 10px solid white;
+  font-size: 15px;
 }
 section > div {
   position: absolute;
@@ -22,10 +25,10 @@ section > div {
   top: 0;
   border-bottom: 2px solid black;
   border-left: 2px solid black;
-  width: 80px;
-  height: 20px;
+  width: 100px;
+  height: 25px;
   text-align: center;
-  font-size: 15px;
+  font-size: 125%;
   font-weight: bold;
 }
 div#chicken {
