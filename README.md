@@ -1,2 +1,2 @@
 # Coursera-HJ
-Coursera HJ stuff
+Online html+css course from Coursera
